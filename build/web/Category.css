@@ -1,0 +1,39 @@
+input[type=button] 
+{ 
+    padding: 1em 2em;
+    font-size: 1.2em;
+    font-weight: bold;
+    border:4px solid #222;
+    border-radius: 2px;
+    background-color: #FFC;
+}
+
+input[type=button]:hover
+{
+    background-color:yellowgreen; 
+}
+
+hr.two{
+    border:none;
+    border-top:2px solid;
+}
+
+#button1
+{
+  margin: auto;
+  display: block;
+  width: 10%;
+  background-color: #04AA6D;
+  padding: 14px 28px;
+  font-size: 25px;
+  cursor: pointer;
+  text-align: center;
+}
+
+#container
+{
+    display:flex;
+    margin-bottom: 60px;
+}
+
+
